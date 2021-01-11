@@ -1,0 +1,14 @@
+{
+  "name": "javascript-nodejs-receipt-ocr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "javascript-nodejs-receipt-ocr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Asprise.com",
+  "license": "Asprise",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}

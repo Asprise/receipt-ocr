@@ -1,11 +1,11 @@
-# Receipt OCR in C# VB.NET, Java, JavaScript, PHP & Python
+# 🧾 Receipt OCR in C# VB.NET, Java, JavaScript, PHP & Python
 
 Instantly detects, extracts, recognizes and enriches all text and data on receipts
 through OCR using sJavaScript/Node.Js, Java, C# VB.NET, PHP, Python & Ruby.
 
 [📖 Read developers' guide here](http://asprise.com/ocr/api/docs/html/receipt-ocr.html)
 
-[🧾 OCR your own receipts without coding](http://asprise.com/receipt-ocr-data-capture-api/extract-text-reader-scanner-index.html)
+[📷 OCR your own receipts without coding](http://asprise.com/receipt-ocr-data-capture-api/extract-text-reader-scanner-index.html)
 
 ### Sample 1
 

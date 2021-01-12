@@ -3,19 +3,13 @@
 Instantly detects, extracts, recognizes and enriches all text and data on receipts
 through OCR using sJavaScript/Node.Js, Java, C# VB.NET, PHP, Python & Ruby.
 
-<a href="http://asprise.com/ocr/api/docs/html/receipt-ocr.html" target="_blank">
-<h4>📖 Read developers' guide here</h4>
-</a>
+<h4>[📖 Read developers' guide here](http://asprise.com/ocr/api/docs/html/receipt-ocr.html)</h4>
 
-<a href="http://asprise.com/receipt-ocr-data-capture-api/extract-text-reader-scanner-index.html" target="_blank">
-<h4>🧾 OCR your own receipts without coding</h4>
-</a>
+<h4>[🧾 OCR your own receipts without coding](http://asprise.com/receipt-ocr-data-capture-api/extract-text-reader-scanner-index.html)</h4>
 
 ### Sample 1
 
-<a href="http://asprise.com/receipt-ocr-data-capture-api/extract-text-reader-scanner-index.html" target="_blank">
-<h4>✨ View the complete demos here</h4>
-</a>
+<h4>[✨ View the complete demos here](http://asprise.com/ocr/api/docs/html/receipt-ocr.html)</h4>
 
 
 #### Input image
@@ -286,10 +280,6 @@ OCR Text:
 
 ### Next
 
-<a href="http://asprise.com/ocr/api/docs/html/receipt-ocr.html" target="_blank">
-<h4>📖 Read developers' guide here</h4>
-</a>
+<h4>[📖 Read developers' guide here](http://asprise.com/ocr/api/docs/html/receipt-ocr.html)</h4>
 
-<a href="http://asprise.com/receipt-ocr-data-capture-api/extract-text-reader-scanner-index.html" target="_blank">
-<h4>🧾 OCR your own receipts without coding</h4>
-</a>
+<h4>[🧾 OCR your own receipts without coding](http://asprise.com/receipt-ocr-data-capture-api/extract-text-reader-scanner-index.html)</h4>

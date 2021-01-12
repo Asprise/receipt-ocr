@@ -9,7 +9,7 @@ through OCR using sJavaScript/Node.Js, Java, C# VB.NET, PHP, Python & Ruby. 🧾
 
 ### Sample 1
 
-[✨ View the complete demos here](http://asprise.com/ocr/api/docs/html/receipt-ocr.html)
+[✨ View the more samples here](http://asprise.com/ocr/api/docs/html/receipt-ocr.html)
 
 
 #### Input image

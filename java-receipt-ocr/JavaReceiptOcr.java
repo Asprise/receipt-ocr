@@ -14,7 +14,7 @@ import org.apache.http.util.EntityUtils;
 public class JavaReceiptOcr {
 
 	public static void main(String[] args) throws Exception {
-		String receiptOcrEndpoint = "https://ocr.asprise.com:48443/v1/receipt"; // Receipt OCR API endpoint
+		String receiptOcrEndpoint = "https://ocr.asprise.com:48443/api/v1/receipt"; // Receipt OCR API endpoint
 		File imageFile = new File("receipt.jpg");
 
 		System.out.println("=== Java Receipt OCR Demo - Need help? Email support@asprise.com ===");
@@ -23,7 +23,7 @@ public class JavaReceiptOcr {
 			HttpPost post = new HttpPost(receiptOcrEndpoint);
 			post.setEntity(MultipartEntityBuilder.create()
 				.addTextBody("client_id", "TEST")       // Use 'TEST' for testing purpose
-				.addTextBody("recognizer", "all")       // can be 'US', 'CA', 'JP', 'SG' or 'all'
+				.addTextBody("recognizer", "auto")      // can be 'US', 'CA', 'JP', 'SG' or 'auto'
 				.addTextBody("ref_no", "ocr_java_123'") // optional caller provided ref code
 				.addPart("file", new FileBody(imageFile))    // the image file
 				.build());

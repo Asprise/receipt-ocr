@@ -14,7 +14,7 @@ namespace csharp_vb_net_receipt_ocr
         static void Main(string[] args)
         {
             Console.WriteLine("=== C# VB.NET Receipt OCR Demo - Need help? Email support@asprise.com ===");
-            string response = httpPost("https://ocr.asprise.com:48443/v1/receipt", // Receipt OCR API endpoint
+            string response = httpPost("https://ocr.asprise.com:48443/api/v1/receipt", // Receipt OCR API endpoint
                 new NameValueCollection()
                 {
                     {"client_id", "TEST"}, // Use 'TEST' for testing purpose

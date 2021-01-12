@@ -1,7 +1,7 @@
 <?php
 
 function receiptOcr($imageFile) {
-  $receiptOcrEndpoint = 'https://ocr.asprise.com:48443/v1/receipt'; //
+  $receiptOcrEndpoint = 'https://ocr.asprise.com:48443/api/v1/receipt'; //
 
   $ch = curl_init();
   curl_setopt($ch, CURLOPT_URL, $receiptOcrEndpoint);

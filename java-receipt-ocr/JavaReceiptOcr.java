@@ -14,7 +14,7 @@ import org.apache.http.util.EntityUtils;
 public class JavaReceiptOcr {
 
 	public static void main(String[] args) throws Exception {
-		String receiptOcrEndpoint = "https://ocr.asprise.com:48443/api/v1/receipt"; // Receipt OCR API endpoint
+		String receiptOcrEndpoint = "https://ocr.asprise.com/api/v1/receipt"; // Receipt OCR API endpoint
 		File imageFile = new File("receipt.jpg");
 
 		System.out.println("=== Java Receipt OCR Demo - Need help? Email support@asprise.com ===");

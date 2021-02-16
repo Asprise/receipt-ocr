@@ -1,7 +1,7 @@
 // To run it: node javascript-nodejs-receipt-ocr.js
 console.log("=== Node.js Receipt OCR Demo - Need help? Email support@asprise.com ===");
 
-var receiptOcrEndpoint = 'https://ocr.asprise.com:48443/api/v1/receipt';
+var receiptOcrEndpoint = 'https://ocr.asprise.com/api/v1/receipt';
 var imageFile = 'receipt.jpg'; // Modify this to use your own file if necessary
 
 var fs = require('fs');
